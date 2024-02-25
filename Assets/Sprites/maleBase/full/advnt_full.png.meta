@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -84,7 +84,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 12
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -106,9 +106,1135 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: advnt_full_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 576
+        width: 16
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc17264f23f549b495756e4045b1504
+      internalID: 1722766676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 576
+        width: 18
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e378c5aa6549b4de2af4f5329701f818
+      internalID: -782303597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 576
+        width: 11
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271078020b3b34c6d98290d2c4734c75
+      internalID: 1065851183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 576
+        width: 10
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47b978171ff24d028d092698442f2a1
+      internalID: 1830122273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 18
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30ea0e846674d33ac0e8b9756343f4
+      internalID: -2043287399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 576
+        width: 11
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a017228287b1b4287a9a0286d2e73d2c
+      internalID: 1543357884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 576
+        width: 9
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a7f14c84e1d44f7b5b2dc3dd610265
+      internalID: 2009250062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 576
+        width: 17
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f7327bde29449ebdf59a448ca5bd4
+      internalID: 1227320274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 576
+        width: 18
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1a6f658620245e6bbda53bbb7c60f2
+      internalID: -69948047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 576
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d65d0ed516c6461da8035a10e7aab17
+      internalID: 1536937754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 18
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fae0d0f0020d4a0f8c1b9c3f3747f2e
+      internalID: -1716029655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 512
+        width: 19
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e456d522199e4256a64a82892e3f328
+      internalID: -1016678792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 512
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424709499cba48e9badf48e877849d4
+      internalID: 1474504131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 512
+        width: 18
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e8d9feb51a34ca99772aabb71a01c0
+      internalID: -1959007643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 512
+        width: 18
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac8fd8a61954e38a3293255ecca3e8
+      internalID: 155796953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 512
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129cf0906915a43fd97de89ff9360d90
+      internalID: 1578817381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 512
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc384695ec6d47d695e15a3371e53e8
+      internalID: 111873825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 512
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3824018c8577a41f999ca4b8f8afc07f
+      internalID: 1982588397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 514
+        width: 18
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268a18111df47432fb5dde2ccd412e59
+      internalID: -971806964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 512
+        width: 18
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6fbe2e56a64adf94e8e7ac9bd45fe
+      internalID: -683532874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 18
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e3f6d5a9def41f1a139d14b6035160
+      internalID: 1662806846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 448
+        width: 18
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1752e40c9c584585b70c4a049d70f28
+      internalID: 662660752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dad13749610a47b18f2ad87a4103010
+      internalID: -2117492971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e3f1b0da45343d4aaaa5ea4c413723
+      internalID: -21993772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 448
+        width: 19
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6c3203c7c124bfcb6f9afc5efb389b
+      internalID: -64729436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 448
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c03927ca6f047779a4625092f2b82b
+      internalID: 1511501814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 448
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a0cfbc866a4ad493f6a4c8fbdb0e5
+      internalID: 1137697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 448
+        width: 20
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faffb40d025b74e97867098c350b6ca5
+      internalID: -796182349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8fa2de4d81f4864ae43de0bbbfa01c
+      internalID: 1622910289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 448
+        width: 20
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaa6f5ae7e7f41c28e1c192bfba33f4
+      internalID: -360585965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 384
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8140f839e5b2c429faeb0f471722ff8d
+      internalID: -728136580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 384
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218e91977e46b4a63bc0d57c3df3b3dd
+      internalID: 764168705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c05587562044f69950af33885486f4
+      internalID: 954643387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 384
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed0f42d5ffb14e7ea36978951744597
+      internalID: 526255872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d292e6a365ca4e4390cfcad968be7ad
+      internalID: 532799339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 384
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e1720b25cd7498a85ba6ae1740aa2a
+      internalID: -147198410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41306055ca1ae46a284b0276ea4c64b7
+      internalID: 738974252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3922b76845f4692ac75b4668aa5d66
+      internalID: -1998616952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 384
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d87da3262a94fc4bfa29392107598c
+      internalID: 1950618371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 384
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeeff44a340c4df18518deae59a1a8a
+      internalID: 380931870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 21
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca97a10722d42b6a64648cbd8dca82
+      internalID: -1899761296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 320
+        width: 17
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eb34a8a3b7e46c586395bae989baa2
+      internalID: 1714630059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa167b535053a4f45874c2b47a710562
+      internalID: -572024184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 320
+        width: 20
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1bb8d1c94a4abc9403d5f5ad87a60
+      internalID: 52784722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 17
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefede043aef94964b06fc45f7236a3b
+      internalID: -70424485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00f5af6c0b36476b945568b425fada1
+      internalID: -1399622291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc051f9f51a4583ac7f8cb240e0241
+      internalID: -2080438601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 320
+        width: 19
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c308ae1d71b44a7b4ee39b7e345f97
+      internalID: -1383446362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91543ac640fe4a01970059cf405269b
+      internalID: -2023586222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf4f9ea52a0479586a0f9279926dd3
+      internalID: 303121545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 256
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68672d0d40d4f4ee6ac05ae7664312c9
+      internalID: 2018715378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 258
+        width: 37
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dc0b3f0774d4b2fa8a2d0d61578554
+      internalID: -1915284726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: advnt_full_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 256
+        width: 47
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640d8e903ccd94cc6afa821557590f55
+      internalID: 569052278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +1245,60 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      advnt_full_0: 1722766676
+      advnt_full_1: -782303597
+      advnt_full_10: -1716029655
+      advnt_full_11: -1016678792
+      advnt_full_12: 1474504131
+      advnt_full_13: -1959007643
+      advnt_full_14: 155796953
+      advnt_full_15: 1578817381
+      advnt_full_16: 111873825
+      advnt_full_17: 1982588397
+      advnt_full_18: -971806964
+      advnt_full_19: -683532874
+      advnt_full_2: 1065851183
+      advnt_full_20: 1662806846
+      advnt_full_21: 662660752
+      advnt_full_22: -2117492971
+      advnt_full_23: -21993772
+      advnt_full_24: -64729436
+      advnt_full_25: 1511501814
+      advnt_full_26: 1137697
+      advnt_full_27: -796182349
+      advnt_full_28: 1622910289
+      advnt_full_29: -360585965
+      advnt_full_3: 1830122273
+      advnt_full_30: -728136580
+      advnt_full_31: 764168705
+      advnt_full_32: 954643387
+      advnt_full_33: 526255872
+      advnt_full_34: 532799339
+      advnt_full_35: -147198410
+      advnt_full_36: 738974252
+      advnt_full_37: -1998616952
+      advnt_full_38: 1950618371
+      advnt_full_39: 380931870
+      advnt_full_4: -2043287399
+      advnt_full_40: -1899761296
+      advnt_full_41: 1714630059
+      advnt_full_42: -572024184
+      advnt_full_43: 52784722
+      advnt_full_44: -70424485
+      advnt_full_45: -1399622291
+      advnt_full_46: -2080438601
+      advnt_full_47: -1383446362
+      advnt_full_48: -2023586222
+      advnt_full_49: 303121545
+      advnt_full_5: 1543357884
+      advnt_full_50: 2018715378
+      advnt_full_51: -1915284726
+      advnt_full_52: 569052278
+      advnt_full_6: 2009250062
+      advnt_full_7: 1227320274
+      advnt_full_8: -69948047
+      advnt_full_9: 1536937754
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
